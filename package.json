@@ -12,8 +12,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniferFunchess/workout-tracker-mongo.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/JenniferFunchess/workout-tracker-mongo/issues"
+  },
+  "homepage": "https://github.com/JenniferFunchess/workout-tracker-mongo#readme"
 }
